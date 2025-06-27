@@ -13,7 +13,3 @@ This project is a complete pipeline for text classification using a trained mach
 
 ![App Screenshot](Screenshot.png) 
 ![App Screenshot](Screenshot2.png) 
-
-
-## Folder Structure
-
